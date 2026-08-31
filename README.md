@@ -2,6 +2,7 @@ Computing and Responsibility
 Project 2-Court case study w/Personal & Professional Code Ethics
 
 Part-2 PERSONAL ETHICS
+
 I believe that personal privacy is an important ethical issue in Carpenter v. United States. From my personal point of view, a person's location information should be considered private because it can reveal a lot about someone's everyday life. In this case, government obtained historical cell site location information from Carpenter's wireless carriers. The records contained 12,898 location points over 127 days, which allowed government to track his movement over a ling period if time[1]. I believe that having much information about where a person goes can reveal very personal details about their life.
 I understand why law enforcement wanted to obtain Carpenter's location information. The police were investigating a series of robberies, and the location records helped them determine whether Carpenter's phone was near some of the robbery locations. From my perspective, protecting the public and investigating serious crimes are important. However, i do not think that the importance of an investigation should automatically allow the government to access someone's personal information without appropriate limits.
 I believe getting a warrant would have been the better ethical choice. A warrant would allow a judge to review the government's request before the location information was obtained.
