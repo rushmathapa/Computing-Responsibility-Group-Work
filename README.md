@@ -12,5 +12,6 @@ I also considered the alternative of allowing the government to obtain the recor
 At the same time, I understand that privacy cannot always be the only consideration. If there is a serious crime or an emergency, law enforcement may need access to information to protect people. The Court also recognized that there can be limited circumstances, such as exigent circumstances, where a warrantless search my be allowed[1]. For me, the important issue is having a reasonable process that balances public safety with individual privacy.
 Overall, I believe requiring a warrant is the more ethical approach. I am not saying that law enforcement should never be able to obtain cell phone location inforamtion. Instead, i believe there should be reasonable limits and oversight before the government can access detailed information about a person's movements. This approach allow law enforcement to investigate serous crimes while also respecting people's privacy.
 This is my personal ethical viewpoint for our group's initial draft. The other members of my group can review this position and add thier own viewpoints. if they disagree with any part of my reasoning we can include those differences in the final version rather than forcing everyone in the group to have the same opinion.
-REFERENCES 
+REFERENCES
+
 [1] Carpenter v. United States, 585 U.S. 296 (2018).
