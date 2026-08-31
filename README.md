@@ -1,4 +1,5 @@
 Computing and Responsibility
+
 Project 2-Court case study w/Personal & Professional Code Ethics
 
 Part-2 PERSONAL ETHICS
