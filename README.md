@@ -35,5 +35,6 @@ When a company develops a system that becomes part of the infrastructure of soci
 REFERENCES
 
 [1] Carpenter v. United States, 585 U.S. 296 (2018).
+
 [2] ACM. ACM Code of Ethics and Professional Conduct. Retrieved from https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-and-professional-conduct.pdf.
 
